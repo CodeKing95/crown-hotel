@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         
         <p>
-          Edit <code>Crown-Hotel 100995</code> and save to reload.
+          Edit <code>Crown-Hotel 2025</code> and save to reload.
         </p>
       
       </header>
